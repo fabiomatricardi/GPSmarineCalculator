@@ -26,6 +26,8 @@ python gps_distance_calculator.py
 
 The GUI window will open, and you can start adding GPS points, setting travel times, and calculating distances.
 
+<img src='https://github.com/fabiomatricardi/GPSmarineCalculator/raw/main/GPSnauticalSpeed_rev003_006.png' width=900>
+
 ---
 
 ## Description of Classes and Functions
